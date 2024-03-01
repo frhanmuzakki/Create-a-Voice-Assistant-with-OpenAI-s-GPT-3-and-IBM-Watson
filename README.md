@@ -1,6 +1,6 @@
 # Project The Create a Voice Assistant with OpenAI s GPT 3 and IBM Watson
 -----------------------------------------------
-## Author : Cognitiveclass.ai
+## Author : @Talha-Siddiqui3
 Mentee assignment from IBM Advance AI @Infinite Learning Course (Cognitiveclass.ai) Completion of The Create a Voice Assistant with OpenAI s GPT 3 and IBM Watson from Cognitiveclass.ai 
 ## Mentee Info
 
